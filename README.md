@@ -1,2 +1,3 @@
-# soba
-Monitoreo, predicción y alerta temprana de sequías en el sudoeste de la Provincia de Buenos Aires, Argentina
+# Sistema para monitoreo, predicción y alerta temprana de sequías en el sudoeste de la Provincia de Buenos Aires, Argentina
+
+Este repositorio comprende el código fuente de un sistema para el monitoreo, predicción y alerta temprana de sequías en el sudoeste de la Provincia de Buenos Aires (SOBA), Argentina. El proyecto es liderado por el Servicio Meteorológico Nacional e involucra la planificación e implementación de un sistema regional para el monitoreo, predicción y alerta temprana de sequías en el sudoeste de la Provincia de Buenos Aires, Argentina. Este sistema proveerá información y herramientas modernas a sectores económicos y actores sociales afectados por las sequías, que les permitan estar preparados para la ocurrencia de estos desastres naturales y mitigar sus múltiples impactos.
